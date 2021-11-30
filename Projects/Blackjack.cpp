@@ -12,6 +12,10 @@ Description   : BlackJack Game
  * Welcome to the BlackJack Table!
  * Run this program to start playing!
  * 
+ * Classic BlackJack Game:
+ * * Player plays first, then Casino
+ * * Closest to 21 wins, over 21 results in a direct loss
+ * 
  */
 
 #include <iostream>

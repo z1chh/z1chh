@@ -6,3 +6,4 @@ and possess a strong desire to learn more about the many aspects of computer sci
 👀 I am always trying to explore more abilities and skills in order to further my efficiency
 in this domain and to excel in this field, as a programmer.
 
+Programming isn't about what you know; it's about what you can figure out.

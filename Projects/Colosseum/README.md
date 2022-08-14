@@ -58,7 +58,7 @@ During autoplay, boards are drawn randomly between size `--board_size_min` and `
 
 ## AI agent
 
-I implemented the [`ai_agent.py`](https://github.com/z1chh/AI-Agent/blob/main/agents/ai_agent.py) file in [`agents/`](https://github.com/z1chh/AI-Agent/blob/main/agents/) directory (which extends the [`agents.Agent`](https://github.com/z1chh/AI-Agent/blob/main/agents/agent.py) class) using a Monte-Carlo tree search algorithm. The agent can be tested using the information below
+I implemented the [`ai_agent.py`](https://github.com/z1chh/AI-Agent/blob/main/agents/ai_agent.py) file in [`agents/`](https://github.com/z1chh/AI-Agent/blob/main/agents/) directory (which extends the [`agents.Agent`](https://github.com/z1chh/AI-Agent/blob/main/agents/agent.py) class) using a [Monte-Carlo tree search algorithm](https://github.com/z1chh/AI-Agent/tree/main/agents/monte_carlo). The agent can be tested using the information below
 
     ```
     python simulator.py --player_1 random_agent --player_2 ai_agent --display 

@@ -4,7 +4,7 @@
   <img src="https://cdn.britannica.com/36/162636-050-932C5D49/Colosseum-Rome-Italy.jpg?w=690&h=388&c=crop">
 </p>
 
-## Setup
+## Note
 Note: the code for this project is in the [AI-Agent repository](https://github.com/z1chh/AI-Agent).
 
 ## Setup
@@ -17,7 +17,7 @@ pip install -r requirements.txt
 
 ## Playing a game
 
-To start playing a game, we need to use [_agents_](agents/agent.py). For example, to play the game using two random agents (agents which take a random action), run the following:
+To start playing a game, we need to use [_agents_](https://github.com/z1chh/AI-Agent/blob/main/agents/agent.py). For example, to play the game using two random agents (agents which take a random action), run the following:
 
 ```bash
 python simulator.py --player_1 random_agent --player_2 random_agent

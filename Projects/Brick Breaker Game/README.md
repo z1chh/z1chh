@@ -13,6 +13,7 @@ From within DOSBox, I first mounted my drive such that I'm in the same directory
 Then, I compiled the code as follows:
 * `tasm bricks`
 * `tlink bricks util_br`
+
 Finally, simply write `bricks` to run the application and play the game.
 
 ## Game Rules

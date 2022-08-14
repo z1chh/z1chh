@@ -53,12 +53,12 @@ During autoplay, boards are drawn randomly between size `--board_size_min` and `
 
 **Notes**
 
-- Not all agents supports autoplay. The variable `self.autoplay` in [Agent](agents/agent.py) can be set to `True` to allow the agent to be autoplayed. Typically this flag is set to false for a `human_agent`.
+- Not all agents supports autoplay. The variable `self.autoplay` in [Agent](https://github.com/z1chh/AI-Agent/blob/main/agents/agent.py) can be set to `True` to allow the agent to be autoplayed. Typically this flag is set to false for a `human_agent`.
 - UI display will be disabled in an autoplay.
 
 ## AI agent
 
-I implemented the [`ai_agent.py`](agents/ai_agent.py) file in [`agents/`](agents/) directory (which extends the [`agents.Agent`](agents/agent.py) class) using a Monte-Carlo tree search algorithm. The agent can be tested using the information below
+I implemented the [`ai_agent.py`](https://github.com/z1chh/AI-Agent/blob/main/agents/ai_agent.py) file in [`agents/`](https://github.com/z1chh/AI-Agent/blob/main/agents/) directory (which extends the [`agents.Agent`](https://github.com/z1chh/AI-Agent/blob/main/agents/agent.py) class) using a Monte-Carlo tree search algorithm. The agent can be tested using the information below
 
     ```
     python simulator.py --player_1 random_agent --player_2 ai_agent --display 

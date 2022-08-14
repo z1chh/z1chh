@@ -33,4 +33,4 @@ I ran the different models and compared the accuracy on the two datasets by modi
 * different K values
 * maximum tree depth
 * distance/cost functions
-I then presented plots for these experiment, as well as a plot of the decision boudary for each of the models (see the https://github.com/z1chh/Hepatitis-and-Messidor-Machine-Learning/blob/main/Hepatitis%20and%20Messidor%20Analysis.ipynb).
+I then presented plots for these experiment, as well as a plot of the decision boudary for each of the models (see the [Hepatitis and Messidor Analysis file](https://github.com/z1chh/Hepatitis-and-Messidor-Machine-Learning/blob/main/Hepatitis%20and%20Messidor%20Analysis.ipynb).

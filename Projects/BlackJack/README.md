@@ -26,14 +26,14 @@ Note: the code for this project is in the [Blackjack repository](https://github.
 
 ## Classes
 ### Card
-Represents a card, with a rank and suit enums
+Represents a card, with a rank and suit enums.
 
 Methods:
 * getValue: returns the numerical value of the card
 * displayCard: outputs to the screen the card information
 
 ### Hand
-Represents the set of cards that a player holds (up to 12 cards)
+Represents the set of cards that a player holds (up to 12 cards).
 
 Methods:
 * add: adds a card to the hand
@@ -41,7 +41,7 @@ Methods:
 * getTotal: returns the sum of the cards' numerical values
 
 ### Deck
-Represents a standard deck of 52 cards
+Represents a standard deck of 52 cards.
 
 Methods:
 * populate: creates a standard deck of 52 cards
@@ -49,27 +49,27 @@ Methods:
 * deal: deals a card to one hand
 
 ### AbstractPlayer
-Represents a generic abstract player (human or computer)
+Represents a generic abstract player (human or computer).
 
 Methods:
 * isDrawing: returns whether the player wants to draw a card or not
 * isBusted: returns whether the player busted or not (exceeded 21)
 * 
 ### HumanPlayer
-Represents a human player (concrete implementation of AbstractPlayer)
+Represents a human player (concrete implementation of AbstractPlayer).
 
 Methods:
 * isDrawing: returns whether the player wants to draw a card or not
 * announce: prints information about whether the player won, lost, or had a push situation
 * 
 ### ComputerPlayer
-Represents a computer player (concrete implementation of AbstractPlayer)
+Represents a computer player (concrete implementation of AbstractPlayer).
 
 Method:
 * isDrawing: returns whether the player wants to draw a card or not
 
 ### BlackJackGame
-Represents the overall game of Blackjack
+Represents the overall game of Blackjack.
 
 Fields:
 * m_deck: the deck that is used to play an instance of the game

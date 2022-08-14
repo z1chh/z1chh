@@ -5,7 +5,7 @@
 </p>
 
 ## Note
-Note: the code for this project is in the [AI-Agent repository](https://github.com/z1chh/AI-Agent).
+Note: the code for this project is in the [AI-Agent repository](https://github.com/z1chh/Blackjack).
 
 ## Card values
 1. Numbered cards are counted at their face value (two counts as 2 points, three, 3 points, and so on)

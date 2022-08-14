@@ -1151,7 +1151,6 @@ void BlackJackGame::play()
         int playerScore = humanHand->getTotal();
         cardsDrawed = 0;
         keepOnDrawing = (computerHand->getTotal() < playerScore);
-        bool computerBusted = this->m_casino->isBusted(); // If the Casino has busted (score over 21).
 
         // The casino draws as long as its Hand is weaker than the user's.
         while(keepOnDrawing)
@@ -1173,8 +1172,7 @@ void BlackJackGame::play()
             cout << " [" << computerHand->getTotal() << "]" << endl;
 
             // Check that the casino has not busted yet.
-            computerBusted = this->m_casino->isBusted();
-            if(computerBusted)
+            if(this->m_casino->isBusted())
             {
                 break;
             }
@@ -1195,7 +1193,7 @@ void BlackJackGame::play()
 // Main function
 int main()
 {
-    cout << "Welcome to the Comp322 Blackjack table!" << endl;
+    cout << "Welcome to the Blackjack table!" << endl;
     BlackJackGame game;
     // The main loop of the game
     bool playAgain = true;

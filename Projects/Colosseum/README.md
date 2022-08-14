@@ -23,7 +23,7 @@ To start playing a game, we need to use [_agents_](https://github.com/z1chh/AI-A
 python simulator.py --player_1 random_agent --player_2 random_agent
 ```
 
-This will spawn a random game board of size NxN, and run the two agents of class [RandomAgent](agents/random_agent.py). You will be able to see their moves in the console.
+This will spawn a random game board of size NxN, and run the two agents of class [RandomAgent](https://github.com/z1chh/AI-Agent/blob/main/agents/random_agent.py). You will be able to see their moves in the console.
 
 ## Visualizing a game
 
@@ -35,7 +35,7 @@ python simulator.py --player_1 random_agent --player_2 random_agent --display
 
 ## Play on your own!
 
-To play the game on your own, use a [`human_agent`](agents/human_agent.py) to play the game.
+To play the game on your own, use a [`human_agent`](https://github.com/z1chh/AI-Agent/blob/main/agents/human_agent.py) to play the game.
 
 ```bash
 python simulator.py --player_1 human_agent --player_2 random_agent --display
@@ -43,7 +43,7 @@ python simulator.py --player_1 human_agent --player_2 random_agent --display
 
 ## Autoplaying multiple games
 
-Since boards are drawn randomly (between a [`MIN_BOARD_SIZE`](world.py#L17) and [`MAX_BOARD_SIZE`](world.py#L18)) you can compute an aggregate win % over your agents. Use the `--autoplay` flag to run $n$ games sequentially, where $n$ can be set using `--autoplay_runs`.
+Since boards are drawn randomly (between a [`MIN_BOARD_SIZE`](https://github.com/z1chh/AI-Agent/blob/main/world.py#L17) and [`MAX_BOARD_SIZE`](https://github.com/z1chh/AI-Agent/blob/main/world.py#L18)) you can compute an aggregate win % over your agents. Use the `--autoplay` flag to run $n$ games sequentially, where $n$ can be set using `--autoplay_runs`.
 
 ```bash
 python simulator.py --player_1 random_agent --player_2 random_agent --autoplay

@@ -5,6 +5,9 @@
 </p>
 
 ## Setup
+Note: the code for this project is in the [AI-Agent repository](https://github.com/z1chh/AI-Agent).
+
+## Setup
 
 To setup the game, clone this repository and install the dependencies:
 

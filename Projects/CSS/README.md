@@ -1,3 +1,13 @@
+# CSS
+
+<p align="center">
+  <img src="CSS.jpg" width="600" height="600">
+</p>
+
+## Note
+Note: the code for this project is in the [CSS-Basics repository](https://github.com/z1chh/CSS-Basics).
+
+## My Website
 My first basic website using HTML and CSS. Learned and implemented basic HTML features for the skeleton of the webpage.
 
 Used external CSS code to style the website instead of using HTML.

@@ -1,7 +1,7 @@
 # HTML
 
 <p align="center">
-  <img src="html.jpg" width="600" height="600">
+  <img src="html.jpeg" width="600" height="600">
 </p>
 
 ## Note

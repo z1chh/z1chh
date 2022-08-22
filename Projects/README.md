@@ -3,7 +3,7 @@
 Here are some of the projects that I enjoyed doing.
 
 ## [Colosseum](https://github.com/z1chh/AI-Agent) (Python)
-I designed an agent that uses AI to play a game of Colosseum ([rules here](https://github.com/z1chh/z1chh/tree/main/Projects/Colosseum%20-%20AI%20Agent#game-rules)).
+For this project, I designed an agent that uses AI to play a game of Colosseum ([rules here](https://github.com/z1chh/z1chh/tree/main/Projects/Colosseum%20-%20AI%20Agent#game-rules)).
 
 My [agent](https://github.com/z1chh/AI-Agent/blob/main/agents/ai_agent.py) uses the Monte-Carlo Tree Search algorithm that I implemented. By default, it has [two](https://github.com/z1chh/AI-Agent/blob/main/agents/ai_agent.py#L49) (2) seconds to compute the next move to play.
 
@@ -29,3 +29,9 @@ To test the algorithms, I imported two datasets that I first cleaned and organiz
 * Different K-values
 * Maximum Tree Depth
 * Distance and Cost Functions
+
+## [Brick Breaker Game](https://github.com/z1chh/Brick-Breaker-Game) (Assembly)
+
+For this project, I used Intel Assembly (.286) to interact with the graphics card and build a brick breaker game.
+
+The game uses a main loop in which each iteration corresponds to the ball moving by one pixel. Each iteration looks for user input and in-game collisions, and acts accordingly.

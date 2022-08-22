@@ -5,7 +5,7 @@ Here are some of the projects that I enjoyed doing.
 ## Colosseum
 I designed an agent that uses AI to play a game of Colosseum ([rules here](https://github.com/z1chh/z1chh/tree/main/Projects/Colosseum%20-%20AI%20Agent#game-rules)).
 
-My [agent](https://github.com/z1chh/AI-Agent/blob/main/agents/ai_agent.py) uses the Monte-Carlo Tree Search algorithm that I implemented. By default, it has [two](https://github.com/z1chh/AI-Agent/blob/main/agents/ai_agent.py#L47) (2) seconds to compute the next move to play.
+My [agent](https://github.com/z1chh/AI-Agent/blob/main/agents/ai_agent.py) uses the Monte-Carlo Tree Search algorithm that I implemented. By default, it has [two](https://github.com/z1chh/AI-Agent/blob/main/agents/ai_agent.py#L49) (2) seconds to compute the next move to play.
 
 This algorithm is implemented in the following files:
 * [GameState.py](https://github.com/z1chh/AI-Agent/blob/main/agents/monte_carlo/GameState.py)

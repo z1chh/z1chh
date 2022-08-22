@@ -1,8 +1,8 @@
-#Projects
+# Projects
 
 Here are some of the projects that I enjoyed doing.
 
-## Colosseum
+## [Colosseum](https://github.com/z1chh/AI-Agent) (Python)
 I designed an agent that uses AI to play a game of Colosseum ([rules here](https://github.com/z1chh/z1chh/tree/main/Projects/Colosseum%20-%20AI%20Agent#game-rules)).
 
 My [agent](https://github.com/z1chh/AI-Agent/blob/main/agents/ai_agent.py) uses the Monte-Carlo Tree Search algorithm that I implemented. By default, it has [two](https://github.com/z1chh/AI-Agent/blob/main/agents/ai_agent.py#L49) (2) seconds to compute the next move to play.
@@ -20,3 +20,12 @@ The MCTNode class represents a node in the Monte-Carlo tree. It contains the gam
 
 ### Monte-Carlo Tree
 The MCTree class represents the whole tree that is used for the Monte-Carlo tree search algorithm. It provides a method to run the algorithm on the root node and choose the best move to compute next.
+
+## [Machine Learning](https://github.com/z1chh/Hepatitis-and-Messidor-Machine-Learning) (Python)
+For this project, I implemented the K-Nearest-Neighbours algorithm and the Decision Trees algorithm from scratch (without importing any librairies other than numPy and pandas).
+
+To test the algorithms, I imported two datasets that I first cleaned and organized. Then, I ran the two algorithms multiple times, whilst modifying the parameters to test the efficiency. Some parameters that I played with were:
+* KNN vs Decision Tree
+* Different K-values
+* Maximum Tree Depth
+* Distance and Cost Functions

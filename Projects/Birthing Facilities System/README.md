@@ -5,7 +5,7 @@ Note: the code for this project is in the [Birthing-Facilities-System](https://g
 
 ## Relational Model
 <p align="center">
-  <img src="https://github.com/z1chh/Birthing-Facilities-System/tree/main/Screenshots/Midwife ER.jpg">
+  <img src="Screenshots/Midwife ER.jpg">
 </p>
 
 ## Project Overview

@@ -21,6 +21,8 @@ The MCTNode class represents a node in the Monte-Carlo tree. It contains the gam
 ### Monte-Carlo Tree
 The MCTree class represents the whole tree that is used for the Monte-Carlo tree search algorithm. It provides a method to run the algorithm on the root node and choose the best move to compute next.
 
+
+
 ## [Machine Learning](https://github.com/z1chh/Hepatitis-and-Messidor-Machine-Learning) (Python)
 For this project, I implemented the K-Nearest-Neighbours algorithm and the Decision Trees algorithm from scratch (without importing any librairies other than numPy and pandas).
 
@@ -30,11 +32,34 @@ To test the algorithms, I imported two datasets that I first cleaned and organiz
 * Maximum Tree Depth
 * Distance and Cost Functions
 
+
+
 ## [Birthing Facilities System](https://github.com/z1chh/Birthing-Facilities-System) (SQL & Java)
 For this project, I designed an Entity-Relationship model to organize the entities and their attributes, and the relations between entity sets. I then implemented a relational translation. Once this was done, I created the tables and populated them with data (code in the [Tables](https://github.com/z1chh/Birthing-Facilities-System/tree/main/Tables) folder). Finally, I wrote a JDBC program for midwives to interact with the system and perform many actions.
 
-## [Brick Breaker Game](https://github.com/z1chh/Brick-Breaker-Game) (Assembly)
 
+
+## [Spring Boot Student Database](https://github.com/z1chh/Spring-Boot-Student-Database) (Java & Spring Boot)
+For this project, I implemented a Student Database using Spring Boot (and PosgresSQL). I separated concerns by creating an API layer, a service layer and a data access layer.
+
+I programmed classes such that they use Spring Boot annotations (including methods) such as @RestController, @Repository and others.
+
+
+
+## [Brick Breaker Game](https://github.com/z1chh/Brick-Breaker-Game) (Assembly)
 For this project, I used Intel Assembly (.286) to interact with the graphics card and build a brick breaker game.
 
 The game uses a main loop in which each iteration corresponds to the ball moving by one pixel. Each iteration looks for user input and in-game collisions, and acts accordingly.
+
+## [Blackjack](https://github.com/z1chh/z1chh/tree/main/Projects/BlackJack) (C++)
+For this project, I coded a console-based program to play the Blackjack card game as long as the user desires to continue. The strategy that I made the casino use is that they will keep on drawing until they beat the player. For instance, if their hand only has a value of 4, but it beats the player, the casino stops. Inversely, even if the casino has a hand of 20, if the user has a hand of 21, the casino will attempt to draw regardless of the odds.
+
+
+
+## [HTML](https://github.com/z1chh/z1chh/tree/main/Projects/HTML) (HTML5)
+For this project, I created a simple webpage using HTML5 only (no CSS nor Javascript). This is my first basic website using HTML.
+
+
+
+## [CSS](https://github.com/z1chh/z1chh/tree/main/Projects/CSS) (CSS3)
+For this project, I created a simple webpage using HTML5 and CSS only (no Javascript). This is my first basic website using CSS.

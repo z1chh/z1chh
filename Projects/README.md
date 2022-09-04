@@ -66,7 +66,7 @@ For this project, I designed a simple webpage using HTML5 and CSS3 only (no Java
 
 
 
-## [Javascript](https://github.com/z1chh/z1chh/tree/main/Projects/Javacript) (HTML5 & CSS3 & Javascript)
+## [Javascript](https://github.com/z1chh/z1chh/tree/main/Projects/Javascript) (HTML5 & CSS3 & Javascript)
 For this project, I designed a simple webpage using HTML5, CSS3 and Javascript. This is my first basic website using Javascript.
 
 

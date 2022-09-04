@@ -66,7 +66,12 @@ For this project, I designed a simple webpage using HTML5 and CSS3 only (no Java
 
 
 
-## [Javascript Basics](https://github.com/z1chh/z1chh/tree/main/Projects/Javascript%20Basics) (HTML5 & CSS3 & Javascript)
+## [Javascript](https://github.com/z1chh/z1chh/tree/main/Projects/Javscript) (HTML5 & CSS3 & Javascript)
+For this project, I designed a simple webpage using HTML5, CSS3 and Javascript. This is my first basic website using Javascript.
+
+
+
+## [Javascript Mini Projects](https://github.com/z1chh/z1chh/tree/main/Projects/Javascript%20Mini%20Projects) (HTML5 & CSS3 & Javascript)
 For this project, I implemented many simple projects using HTML5, CSS3 and Javascript.
 
 ### Apps
@@ -76,10 +81,5 @@ For this project, I implemented many simple projects using HTML5, CSS3 and Javas
 * Clock
 * Calculator
 * Color Guesser
-
-
-
-## [Javascript](https://github.com/z1chh/z1chh/tree/main/Projects/Javscript) (HTML5 & CSS3 & Javascript)
-For this project, I designed a simple webpage using HTML5, CSS3 and Javascript. This is my first basic website using Javascript.
 
 

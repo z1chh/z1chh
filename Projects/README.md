@@ -61,5 +61,18 @@ For this project, I created a simple webpage using HTML5 only (no CSS nor Javasc
 
 
 
-## [CSS](https://github.com/z1chh/z1chh/tree/main/Projects/CSS) (CSS3)
-For this project, I created a simple webpage using HTML5 and CSS only (no Javascript). This is my first basic website using CSS.
+## [CSS](https://github.com/z1chh/z1chh/tree/main/Projects/CSS) (HTML5 & CSS3)
+For this project, I designed a simple webpage using HTML5 and CSS3 only (no Javascript). This is my first basic website using CSS.
+
+
+
+## [Javascript Basics](https://github.com/z1chh/z1chh/tree/main/Projects/Javascript Basics) (HTML5 & CSS3 & Javascript)
+For this project, I implemented many simple projects using HTML5, CSS3 and Javascript.
+
+### Apps
+* Counter
+* Basketball Scoreboard
+* Stopwatch
+* Clock
+* Calculator
+* Color Guesser

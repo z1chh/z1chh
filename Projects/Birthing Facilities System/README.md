@@ -1,5 +1,8 @@
 # Birthing Facilities System
 
+## Note
+Note: the code for this project is in the [Birthing-Facilities-System](https://github.com/z1chh/Birthing-Facilities-System).
+
 ## Relational Model
 <p align="center">
   <img src="https://github.com/z1chh/Birthing-Facilities-System/tree/main/Screenshots/Midwife ER.jpg">

@@ -79,7 +79,7 @@ For this project, I implemented many simple projects using HTML5, CSS3 and Javas
 
 
 
-## [CSS](https://github.com/z1chh/z1chh/tree/main/Projects/Javscript) (HTML5 & CSS3 & Javascript)
+## [Javascript](https://github.com/z1chh/z1chh/tree/main/Projects/Javscript) (HTML5 & CSS3 & Javascript)
 For this project, I designed a simple webpage using HTML5, CSS3 and Javascript. This is my first basic website using Javascript.
 
 

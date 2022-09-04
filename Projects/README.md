@@ -30,6 +30,9 @@ To test the algorithms, I imported two datasets that I first cleaned and organiz
 * Maximum Tree Depth
 * Distance and Cost Functions
 
+## [Birthing Facilities System](https://github.com/z1chh/Birthing-Facilities-System) (SQL & Java)
+For this project, I designed an Entity-Relationship model to organize the entities and their attributes, and the relations between entity sets. I then implemented a relational translation. Once this was done, I created the tables and populated them with data (code in the [Tables](https://github.com/z1chh/Birthing-Facilities-System/tree/main/Tables) folder). Finally, I wrote a JDBC program for midwives to interact with the system and perform many actions.
+
 ## [Brick Breaker Game](https://github.com/z1chh/Brick-Breaker-Game) (Assembly)
 
 For this project, I used Intel Assembly (.286) to interact with the graphics card and build a brick breaker game.

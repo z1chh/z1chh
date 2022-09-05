@@ -5,9 +5,13 @@ Note: the code for this project is in the [Javascript-Mini-Projects repository](
 
 Here is a list of simple Javascript projects that I implemented.
 
+
+
 ## [Counter](https://github.com/z1chh/JavaScript-Mini-Projects/tree/main/Counter)
 
-A simple counter that can be incremented or resetted to 0 using two buttons.
+A simple counter that can be incremented or resetted to 0 using two buttons. See it on Netlify [here](https://jovial-crostata-136d7d.netlify.app/).
+
+
 
 ## [Basket-Ball Scoreboard](https://github.com/z1chh/JavaScript-Mini-Projects/tree/main/Basketball%20Scoreboard)
 
@@ -17,17 +21,23 @@ It also contains a 24s timer that glows when there is only one second left (rese
 
 The `New Game` button resets the scores and the timer.
 
+
+
 ## [Stopwatch](https://github.com/z1chh/JavaScript-Mini-Projects/tree/main/Stopwatch)
 
 A simple stopwatch that keeps track of time. The reset button sets it back to 0, and also stops the timer.
+
+
 
 ## [Clock](https://github.com/z1chh/JavaScript-Mini-Projects/tree/main/Clock)
 
 A simple digital clock that displays the time (EST Time).
 
+
+
 ## [Calculator](https://github.com/z1chh/JavaScript-Mini-Projects/tree/main/Calculator)
 
-A simple calculator that performs basic computations.
+A simple calculator that performs basic computations. See it on Netlify [here](https://effulgent-seahorse-d4dc8f.netlify.app/).
 
 ### Rules
 
@@ -42,9 +52,12 @@ The following rules are applied:
 - `AC` resets the calculator (no `C` button to clear last input only)
 - Once `=` is clicked, the equation is computed. Clicking on `=` again does nothing
 
+
+
 ## [Color Guesser](https://github.com/z1chh/JavaScript-Mini-Projects/tree/main/Color%20Guesser)
 
-A color guessing game with different difficulties.
+A color guessing game with different difficulties. See it on Netlify [here](https://jazzy-blini-44d33b.netlify.app/).
+
 
 
 ## [Tic Tac Toe](https://github.com/z1chh/JavaScript-Mini-Projects/tree/main/Tic%20Tac%20Toe)

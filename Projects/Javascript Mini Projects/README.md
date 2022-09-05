@@ -45,3 +45,8 @@ The following rules are applied:
 ## [Color Guesser](https://github.com/z1chh/JavaScript-Mini-Projects/tree/main/Color%20Guesser)
 
 A color guessing game with different difficulties.
+
+
+## [Tic Tac Toe](https://github.com/z1chh/JavaScript-Mini-Projects/tree/main/Tic%20Tac%20Toe)
+
+A Tic Tac Toe game. It can be played against another human, or a computer. The computer plays randomly.

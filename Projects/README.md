@@ -46,6 +46,12 @@ I programmed classes such that they use Spring Boot annotations (including metho
 
 
 
+## [Face Detection App](https://github.com/z1chh/Face-Detection-App) (Python)
+For this project, I wrote a program that detects faces in pictures, and a program that can detect faces in videos, including with a real-time live feed from a webcam.
+The classifier used is the Haar cascade classifier algorithm, which is pre-trained by OpenCV.
+
+
+
 ## [Brick Breaker Game](https://github.com/z1chh/Brick-Breaker-Game) (Assembly)
 For this project, I used Intel Assembly (.286) to interact with the graphics card and build a brick breaker game.
 

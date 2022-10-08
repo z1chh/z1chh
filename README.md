@@ -10,4 +10,4 @@
 
 Programming isn't about what you know; it's about what you can figure out.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z1chh&layout=compact&hide=Jupyter%20Notebook&theme=dark)](https://github.com/z1chh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z1chh&layout=compact&hide=Jupyter%20Notebook&theme=discord_old_blurple)](https://github.com/z1chh/github-readme-stats)

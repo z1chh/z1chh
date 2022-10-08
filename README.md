@@ -12,4 +12,4 @@ Programming isn't about what you know; it's about what you can figure out.
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z1chh&layout=compact&hide=Jupyter%20Notebook&theme=discord_old_blurple&langs_count=10)](https://github.com/z1chh/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=z1chh&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=z1chh&count_private=true&show_icons=true&theme=discord_old_purple)](https://github.com/anuraghazra/github-readme-stats)

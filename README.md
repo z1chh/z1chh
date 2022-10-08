@@ -9,3 +9,5 @@
 - 📫 huzichen@gmail.com
 
 Programming isn't about what you know; it's about what you can figure out.
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fei-felicia-chen&layout=compact&hide=Shell&theme=dark)](https://github.com/z1chh/github-readme-stats)

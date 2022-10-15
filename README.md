@@ -12,8 +12,8 @@
 
 ## Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z1chh&layout=compact&hide=Jupyter%20Notebook&theme=discord_old_blurple&langs_count=10)](https://github.com/z1chh/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=z1chh&layout=compact&hide=Jupyter%20Notebook&theme=discord_old_blurple&langs_count=10)](https://github.com/z1chh/z1chh)
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=z1chh&theme=tokyonight_duo)](#)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=z1chh&theme=tokyonight_duo)](https://github.com/z1chh/z1chh)
 
 Programming isn't about what you know; it's about what you can figure out.

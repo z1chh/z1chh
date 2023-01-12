@@ -4,9 +4,9 @@
 
 - 👀 I love to apply the knowledge that I have learned and possess a strong desire to learn more about the many aspects of computer science. I am always trying to explore more abilities and skills in order to further my efficiency in this domain and to excel in this field, as a programmer.
 
-- 🌱 I'm currently learning web development (HTML, CSS, JS, React & Angular) and more about neural networks (machine learning).
+- 🌱 I'm currently learning about software privacy, web development with MERN-stack (HTML, CSS, JS, NodeJS, ExpressJS, React & MongoDB) and more about neural networks (machine learning).
 
-- 💞️ I am really interested in making games and artificial intelligence. Here are some projects that I really enjoyed doing.
+- 💞️ I am really interested in software development, making games and artificial intelligence. Here are some projects that I really enjoyed doing.
 
 - 📫 huzichen@gmail.com
 

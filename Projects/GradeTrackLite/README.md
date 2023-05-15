@@ -1,10 +1,11 @@
 # GradeTrackLite
 
 <p align="center">
-  <img src="GradeTrackLite Dashboard.PNG">
+  <img src="GradeTrackLite Dashboard.png">
 </p>
 
 ## Note
+
 Note: the code for this project is in the [GradeTrackLite repository](https://github.com/z1chh/gradetracklite).
 
 ## Application

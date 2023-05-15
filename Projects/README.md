@@ -1,6 +1,17 @@
 # Projects
 
-Here are some of the projects that I enjoyed doing.
+Here are some of the projects that I enjoyed making.
+
+## [GradeTrackLite](https://github.com/z1chh/gradetracklite) (React.js & Node.js & Express.js & SQLite)
+For this project, I worked in a team to build a web application that can be used by a school or a group of students.
+
+This grade-tracking app allows students to store all their grades in one place rather than keeping their graded papers, and provides additional features, such as computing the mark required for an exam to get an A for a class.
+
+This privacy-oriented application was built by following the privacy-by-design approach in order to minimize user data collection and ensure the safety of PII (personally identifiable information).
+
+It is also possible to self-host this web app, with a easy setup, for schools to use.
+
+
 
 ## [Colosseum](https://github.com/z1chh/AI-Agent) (Python)
 For this project, I designed an agent that uses AI to play a game of Colosseum ([rules here](https://github.com/z1chh/z1chh/tree/main/Projects/Colosseum%20-%20AI%20Agent#game-rules)).
@@ -59,21 +70,6 @@ The game uses a main loop in which each iteration corresponds to the ball moving
 
 ## [Blackjack](https://github.com/z1chh/z1chh/tree/main/Projects/BlackJack) (C++)
 For this project, I coded a console-based program to play the Blackjack card game as long as the user desires to continue. The strategy that I made the casino use is that they will keep on drawing until they beat the player. For instance, if their hand only has a value of 4, but it beats the player, the casino stops. Inversely, even if the casino has a hand of 20, if the user has a hand of 21, the casino will attempt to draw regardless of the odds.
-
-
-
-## [HTML](https://github.com/z1chh/z1chh/tree/main/Projects/HTML) (HTML5)
-For this project, I created a simple webpage using HTML5 only (no CSS nor Javascript). This is my first basic website using HTML.
-
-
-
-## [CSS](https://github.com/z1chh/z1chh/tree/main/Projects/CSS) (HTML5 & CSS3)
-For this project, I designed a simple webpage using HTML5 and CSS3 only (no Javascript). This is my first basic website using CSS.
-
-
-
-## [Javascript](https://github.com/z1chh/z1chh/tree/main/Projects/Javascript) (HTML5 & CSS3 & Javascript)
-For this project, I designed a simple webpage using HTML5, CSS3 and Javascript. This is my first basic website using Javascript.
 
 
 
